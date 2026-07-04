@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Prabhath Nalla 👋</h1>
 
-<h3 align="center">Python Developer (AI/ML) · LangChain · RAG Pipelines · LLM Integration · FastAPI</h3>
+<h3 align="center">Python Developer · AI · ML · LangChain · RAG Pipelines · LLM Integration · FastAPI</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prabhath-nalla/">
